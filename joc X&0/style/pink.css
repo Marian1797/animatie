@@ -17,3 +17,7 @@
 #game td:hover{
     background-color: rgba(148, 0, 240, 0.3);
 }
+
+#game.over td:hover{
+    background-color: initial;
+}
